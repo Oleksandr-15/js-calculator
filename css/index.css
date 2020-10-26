@@ -1,0 +1,32 @@
+body {
+    margin-left: 100px;
+    width: 980px;
+    margin: auto;
+}
+.symbol {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.operators {
+    display: flex;
+    flex-direction: column;
+}
+input {
+    width: 225px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    color: black;
+    text-align: right;
+    font-weight: bold;
+    border: 1px solid;
+
+}
+button {
+    padding: 20px 20px 20px 20px;
+    margin: 2px;
+}
+
+.eq {
+    width: 230px;
+}
